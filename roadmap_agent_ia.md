@@ -1,4 +1,3 @@
-
 # 📈 AI Coding Workflow (Windsurf Example) — README
 
 Welcome! 👋  
@@ -96,7 +95,7 @@ Build a small web app that lets a user upload a CSV file containing USD/EUR exch
 
 ## 2. Users & Use Case
 - User uploads a CSV of historical rates.
-- The app cleans the data (drops missing values).
+- The app cleans the data  (drops missing values).
 - The app renders a line chart and allows quick time-range filtering.
 
 ## 3. Inputs (CSV Contract)
